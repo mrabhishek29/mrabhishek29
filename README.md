@@ -8,6 +8,8 @@ Hi I am Abhishek Sharma 👋
 - 📫 How to reach me: 
 [LinkedIn] : -
 {https://www.linkedin.com/in/abhishek-sharma-b757621a4/}
+[GMail] :
+{abhu.sharma29@gmail.com}
 
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: In my free time I used to write shayari.
