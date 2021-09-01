@@ -1,7 +1,7 @@
 Hi I am Abhishek Sharma 👋
 
 - 🔭 I’m currently working at E2Open as a Associate Software Engineer.
-- 🌱 I’m currently learning java and PostgreSQL language.
+- 🌱 I’m currently learning and working on java and PostgreSQL language.
 - 👯 I’m looking to collaborate with E2Open as a full time Engineer.
 - 💬 Ask me about my experience.
 - 📫 How to reach me: 
