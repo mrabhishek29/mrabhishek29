@@ -1,10 +1,9 @@
 Hi I am Abhishek Sharma 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning java and SQL language.
-- 👯 I’m looking to collaborate on product based organizations.
-- 🤔 I’m looking for help with core java.
-- 💬 Ask me about my experience
+- 🔭 I’m currently working at E2Open as a Associate Software Engineer.
+- 🌱 I’m currently learning java and PostgreSQL language.
+- 👯 I’m looking to collaborate with E2Open as a full time Engineer.
+- 💬 Ask me about my experience.
 - 📫 How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/abhishek-sharma-b757621a4/),
 [GMail](abhu.sharma29@gmail.com)
