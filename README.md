@@ -1,7 +1,7 @@
-Hi I am Abhishek Sharma 👋
+Hi, I am Abhishek Sharma 👋
 
-- 🔭 I’m currently working at E2Open as a Associate Software Engineer.
-- 🌱 I’m working on java, springboot, Junit and SQL language.
+- 🔭 I’m currently working at E2Open as a Software Engineer.
+- 🌱 I’m working on java ,Junit, Postman, springboot and SQL.
 - 💬 Ask me about my experience.
 - 📫 How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/abhishek-sharma-b757621a4/),
