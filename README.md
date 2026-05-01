@@ -28,8 +28,6 @@
 Java, Spring Boot, REST APIs, SQL, AI-assisted development, debugging
 
 📫 Reach me:
-- LinkedIn: <your-link>
-- Email: <your-email>
-[LinkedIn](https://www.linkedin.com/in/abhishek-sharma-b757621a4/),
-- [GMail](mailto:abhu.sharma29@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abhishek-sharma-b757621a4/)
+- Email: [GMail](mailto:abhu.sharma29@gmail.com)
 <img src="https://github-readme-stats.vercel.app/api?username=mrabhishek29&&show_icons=true&title_color=FFFF00&icon_color=DC143C&text_color=4169E1&bg_color=151515">
